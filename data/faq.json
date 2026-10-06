@@ -1,0 +1,35 @@
+{
+    "login": [
+        "Problemas de acceso: Usa 'olvidé mi contraseña' en https://login.cursosant.com",
+        "Si no recibes el correo, revisa spam o espera 5 minutos",
+        "Si el problema persiste, intenta desde otro navegador o modo incógnito"
+    ],
+    "cuenta": [
+        "Para crear cuenta: Registrate en cursosant.com con email y contraseña",
+        "Si tienes problemas, usa 'olvidé mi contraseña' para recuperar acceso"
+    ],
+    "contraseña": [
+        "Recuperación: Usa 'olvidé mi contraseña' en login.cursosant.com",
+        "Si no llega el correo, revisa spam o escribe a login_pass@cursosant.com"
+    ],
+    "error 404": [
+        "Página no encontrada: Verifica que la URL sea https://cursosant.com",
+        "Si el error persiste, limpia la caché del navegador"
+    ],
+    "error": [
+        "Error general: Intenta recargar la página o limpiar caché",
+        "Si el error tiene código, búscalo en nuestra documentación"
+    ],
+    "cupon": [
+        "Para usar el descuento, ingresa NEW_SKILL_AI en el campo 'Código promocional' antes de pagar",
+        "El código es sensible a mayúsculas: NEW_SKILL_AI"
+    ],
+    "descuento": [
+        "Para buscar descuentos, ingresa a https://cursosant.com y obtén cupones disponibles."
+    ],
+    "pago": [
+        "Aceptamos tarjetas de crédito y PayPal",
+        "Si el pago falla, verifica que tus datos sean correctos",
+        "Para reembolsos, escribe a facturacion@cursosant.com"
+    ]
+}

@@ -1,0 +1,6 @@
+{
+    "401": "Error de autenticación: Revisa que tu email y contraseña sean correctos.",
+    "404": "Página no encontrada: Verifica que la URL sea correcta.",
+    "500": "Error interno del servidor: Espera unos minutos y vuelve a intentar.",
+    "timeout": "Tiempo de espera agotado: Revisa tu conexión a internet."
+}

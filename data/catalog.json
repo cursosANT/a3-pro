@@ -1,0 +1,17 @@
+{
+    "COURSE_01": {
+        "name": "Python Básico",
+        "price": 29,
+        "features": ["Fundamentos de Python", "Configuración de VS Code", "Primeros proyectos"]
+    },
+    "COURSE_02": {
+        "name": "Python Agents",
+        "price": 59,
+        "features": ["Corrutinas y async/await", "Antigravity", "Exámenes prácticos"]
+    },
+    "COURSE_03": {
+        "name": "Vibe Coding",
+        "price": 39,
+        "features": ["Gemini API", "GPT", "Deepseek", "Despliegue en producción"]
+    }
+}

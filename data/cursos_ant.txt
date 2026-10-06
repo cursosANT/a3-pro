@@ -1,0 +1,33 @@
+Cursos ANT
+
+Empresa dedicada al Desarrollo de Software y la impartición de cursos online.
+
+Fundada en 2016, toma inspiración en Frogames formación(España), para proponer un centro educativo en México,
+su fundador es Alain Nicolás Tello(Ing. en Desarrollo de Software), con experiencia en programación 
+profesional en la industria petrolera y de construcción, decide llevar sus conocimientos de apps web y 
+móvil a el aprendizaje online en Udemy, es el instructor de todos los cursos.
+
+En 2017 sale el primer curso online, desde entonces se han creado decenas de cursos enfocados en las
+buenas prácticas para crear Software de calidad, los cursos se enfocan en lenguajes de programación como:
+Java, Kotlin, Python, Angular, JavaScript y PHP. También en este año se crea el canal educativo en YouTube
+para ofrecer contenido educativo de complementario y exclusivo para la plataforma, abarcando más temas y 
+contenido de interés.
+
+En 2020 Cursos ANT hace una alianza con Frogames y comienza una era de varias colaboraciones en cursos 
+online que se imparten tanto en Udemy.com como Frogames.es.
+
+En 2024 también se incluye la IA en los cursos, añadiendo herramientas necesarias para la era actual y
+en 2026 se crean cursos especializados en la creación de agentes de IA con Python.
+
+Cursos ANT es una academia educativa comprometida con la educación de calidad, útil y acorde a las
+demandas que exite la industria en el sector de las tecnologías de la información; siempre pensando
+en que el acceso al aprendizaje este disponible para todo el mundo, para cualquier estrato social y
+partiendo desde cualquier punto de conocimiento.
+
+Más información y Cupónes Descuento para los cursos:
+https://alainnicolastello.com/
+
+Contacto:
+Teléfono: +52 800 Cursos-ANT
+Soporte: help@cursos.ant
+Web: https://alainnicolastello.com/#/contacto
